@@ -1,10 +1,4 @@
 {
-    "routes" : [
-        {
-            "route": "/index.html",
-            "allowedRoles": ["authenticated"]
-        }
-    ],
     "navigationFallback": {
         "rewrite": "/index.html"
     }
